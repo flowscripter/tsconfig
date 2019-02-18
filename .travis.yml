@@ -15,6 +15,7 @@ stages:
 jobs:
   include:
   - stage: release
+    script: skip
     deploy:
       provider: script
       skip_cleanup: true

@@ -1,8 +1,11 @@
 {
-    "include": [
-        "**/*.ts"
-    ],
-    "exclude": [
-        "node_modules"
-    ]
+    "compilerOptions": {
+        "declaration": true,
+        "forceConsistentCasingInFileNames": true,
+        "noImplicitAny": true,
+        "module": "es6",
+        "target": "es6",
+        "removeComments": false,
+        "declarationDir": "dist/types"
+    }
 }
