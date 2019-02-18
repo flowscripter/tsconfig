@@ -4,9 +4,18 @@
 [![travis](https://api.travis-ci.com/flowscripter/tsconfig.svg)](https://travis-ci.com/flowscripter/tsconfig)
 [![npm](https://img.shields.io/npm/v/@flowscripter/tsconfig.svg)](https://www.npmjs.com/package/@flowscripter/tsconfig)
 
-> Common tsconfig for all Flowscripter TypeScript projects.
+> Common [TypeScript config](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html) for Flowscripter ES2016 projects.
+
+## Install
+
+```
+npx install-peerdeps --dev @flowscripter/tsconfig
+``` 
 
 ## Usage
 
-1. `npx install-peerdeps --dev @flowscripter/tsconfig` 
-1. Add `"extends": "@flowscripter/tsconfig"` to your `tsconfig.json` file.
+Add `"extends": "@flowscripter/tsconfig"` to your `tsconfig.json` file.
+
+## License
+
+MIT © Vectronic
