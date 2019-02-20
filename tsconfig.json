@@ -1,12 +1,11 @@
 {
     "compilerOptions": {
         "declaration": true,
+        "strict": true,
         "forceConsistentCasingInFileNames": true,
-        "noImplicitAny": true,
         "module": "es6",
         "target": "es6",
-        "removeComments": false,
-        "declarationDir": "dist/types",
-        "esModuleInterop": true
+        "esModuleInterop": true,
+        "newLine": "lf"
     }
 }
