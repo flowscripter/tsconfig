@@ -6,6 +6,7 @@
         "module": "es6",
         "target": "es6",
         "removeComments": false,
-        "declarationDir": "dist/types"
+        "declarationDir": "dist/types",
+        "esModuleInterop": true
     }
 }
