@@ -6,7 +6,7 @@
 
 > Common [TypeScript config](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html) for Flowscripter ES2016 projects.
 
-## Install
+## Installation
 
 ```
 npx install-peerdeps --dev @flowscripter/tsconfig
