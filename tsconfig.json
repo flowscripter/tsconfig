@@ -7,6 +7,6 @@
         "target": "esnext",
         "esModuleInterop": true,
         "newLine": "lf",
-        "moduleResolution": "Node"
+        "moduleResolution": "node"
     }
 }
