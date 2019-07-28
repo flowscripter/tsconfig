@@ -33,7 +33,7 @@
         "@commitlint/config-conventional": "8.1.0",
         "@flowscripter/renovate-config": "1.0.2",
         "husky": "3.0.1",
-        "semantic-release": "15.13.18"
+        "semantic-release": "^15.13.19"
     },
     "peerDependencies": {},
     "dependencies": {}
