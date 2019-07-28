@@ -29,11 +29,11 @@
         "tsconfig.json"
     ],
     "devDependencies": {
-        "@commitlint/cli": "^8.1.0",
-        "@commitlint/config-conventional": "8.0.0",
+        "@commitlint/cli": "8.1.0",
+        "@commitlint/config-conventional": "8.1.0",
         "@flowscripter/renovate-config": "1.0.0",
-        "husky": "3.0.0",
-        "semantic-release": "^15.13.19"
+        "husky": "3.0.1",
+        "semantic-release": "15.13.18"
     },
     "peerDependencies": {},
     "dependencies": {}
