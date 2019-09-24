@@ -18,4 +18,4 @@ Add `"extends": "@flowscripter/tsconfig"` to your `tsconfig.json` file.
 
 ## License
 
-MIT © Vectronic
+MIT © Flowscripter
